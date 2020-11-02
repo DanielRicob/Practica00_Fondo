@@ -1,4 +1,5 @@
 # Practica00_Fondo
-Practica Android Fondos
 
-Practica00_Fondo/ FondoPrincipal.JPG
+Fondo Principal
+
+<img align="left" alt="codeSTACKr.com" width="220px" src = "https://github.com/DanielRicob/Practica00_Fondo/blob/main/FondoPrincipal.JPG" /> 
